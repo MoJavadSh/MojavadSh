@@ -1,6 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 I’m Studying Computer engineering<br>🌱 I’m currently learning Python<br>💬 I am a curious guy in this coding world<br>⚡ Don't take life too seriously! 
-
+Hi, I’m MohammadJavad Shahbazi, a computer engineering student currently focused on learning backend development and improving my skills in Competitive Programming (CP). I’m passionate about solving complex problems and building scalable systems. I’m open to collaborating on challenging projects, contributing to open-source, or exploring opportunities in backend development and competitive programming.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadjavad0-shahbazi) 
