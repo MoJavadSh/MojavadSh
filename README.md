@@ -15,4 +15,4 @@ Hi, I’m MohammadJavad Shahbazi, a computer engineering student currently focus
 ---
 [![](https://visitcount.itsvg.in/api?id=MoJavadSh&icon=8&color=0)](https://visitcount.itsvg.in)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mojavadsh&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+[![](https://github-readme-streak-stats.herokuapp.com?user=mojavadsh&theme=onedark&hide_border=true)](https://git.io/streak-stats)
